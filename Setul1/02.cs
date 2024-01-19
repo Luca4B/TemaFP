@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ecuatia_gr_1
+namespace 02
 {
     internal class Program
     {
