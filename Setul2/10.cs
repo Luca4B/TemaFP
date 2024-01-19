@@ -16,7 +16,7 @@ namespace _10
             int d1 = int.Parse(Console.ReadLine());
             int scurrent = 1;
             int smax = 1;
-            for(int i = 0; i < n; i++)
+            for(int i = 1; i < n; i++)
             {
                 int d = int.Parse(Console.ReadLine());
                 if (d == d1)
