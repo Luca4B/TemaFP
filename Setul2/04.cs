@@ -23,7 +23,8 @@ namespace _04
                 if(d == a)
                 {
                     Console.WriteLine($"Numarul a se afla pe pozitia {i}");
-                    ok = true;                }
+                    ok = true;                
+                }
             }
             if (ok == false)
                 Console.WriteLine($"Numarul se afla pe pozitia -1");
