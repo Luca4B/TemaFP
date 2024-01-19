@@ -18,7 +18,7 @@ namespace _07
             int aux;
             aux = a;
             a = b;
-            b=aux;
+            b = aux;
             Console.WriteLine($"a = {a} ; b = {b}");
         }
     }
